@@ -5,11 +5,11 @@ import {
   Route
 } from 'react-router-dom'
 
-import ListPage from './components/6/ListPage'
-import AddPage from './components/6/AddPage'
-import Header from './components/6/Header'
-import DeletePage from './components/6/DeletePage'
-import EditPage from './components/6/EditPage'
+import ListPage from './components/4/ListPage'
+import AddPage from './components/4/AddPage'
+import Header from './components/4/Header'
+import DeletePage from './components/4/DeletePage'
+import EditPage from './components/4/EditPage'
 
 function App() {
   return(
